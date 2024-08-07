@@ -8,3 +8,5 @@ Just go to 'Account' -> 'Profile & Parental Controls' -> 'Viewing Activity' -> S
 It can take up to 30 days for them to email you the files depending on how much data it is.
 
 The only file that really matters in the files they send is the viewing activity csv.
+
+Final dashboard link. https://public.tableau.com/app/profile/iram.salas/viz/MyNetflixViewingHistory_17055519428640/Dashboard1
